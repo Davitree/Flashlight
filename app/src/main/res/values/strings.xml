@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flashlight</string>
+    <string name="turn_on">Turn on flashlight</string>
+    <string name="turn_off">Turn off flashlight</string>
+    <string name="no_flash_available">No flash available on this device</string>
+    <string name="camera_in_use">Flashlight is already in use by another app.</string>
+    <string name="hardware_error">Hardware error while controlling flashlight.</string>
+    <string name="camera_permission_required">Camera permission is required to use the flashlight.</string>
+    <string name="permission_rationale">Camera permission is needed to turn on the flashlight.</string>
+    <string name="open_settings">Open Settings</string>
+</resources>
